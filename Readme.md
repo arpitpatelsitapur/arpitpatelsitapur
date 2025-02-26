@@ -1,7 +1,7 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>Projects related to Machine Learning, Deep Learning, NLP, LLMs, and AI-powered applications, including audio signal processing, STT, and TTS models.<br>
-🌱 I’m currently learning<br>Advanced ML & AI concepts, focusing on Speech-to-Text (STT), Text-to-Speech (TTS), NLP, and deep learning for audio signal processing.<br>
-💬 Ask me about<br>ML, AI, NLP, fine-tuning transformers, OpenAI/Gemini API integration, LangChain, speech & audio processing (STT/TTS models), and chatbot development.
+🌱 I’m currently learning Advanced ML & AI concepts, focusing on Speech-to-Text (STT), Text-to-Speech (TTS), NLP, and deep learning for audio signal processing.<br>
+👯 I’m looking to collaborate on Projects related to Machine Learning, Deep Learning, NLP, LLMs, and AI-powered applications, including audio signal processing, STT, and TTS models.<br>
+💬 Ask me about ML, AI, NLP, fine-tuning transformers, OpenAI/Gemini API integration, LangChain, speech & audio processing (STT/TTS models), and chatbot development.
 
 
 ## 🌐 Socials:
