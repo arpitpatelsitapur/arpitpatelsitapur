@@ -1,8 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning Advanced ML & AI concepts, focusing on Speech-to-Text (STT), Text-to-Speech (TTS), NLP, and deep learning for audio signal processing.<br>
-👯 I’m looking to collaborate on Projects related to Machine Learning, Deep Learning, NLP, LLMs, and AI-powered applications, including audio signal processing, STT, and TTS models.<br>
-💬 Ask me about ML, AI, NLP, fine-tuning transformers, OpenAI/Gemini API integration, LangChain, speech & audio processing (STT/TTS models), and chatbot development.<br>
-⚡ Fun fact I started with ML and AI out of curiosity, and now I find myself diving into everything from chatbots and NLP to speech recognition and audio processing—always excited for the next challenge! 😃
+🌱 **I’m currently learning** Advanced ML & AI concepts, focusing on Speech-to-Text (STT), Text-to-Speech (TTS), NLP, and deep learning for audio signal processing.<br>
+👯 **I’m looking to collaborate** on Projects related to Machine Learning, Deep Learning, NLP, LLMs, and AI-powered applications, including audio signal processing, STT, and TTS models.<br>
+💬 **Ask me about** ML, AI, NLP, fine-tuning transformers, OpenAI/Gemini API integration, LangChain, speech & audio processing (STT/TTS models), and chatbot development.<br>
+⚡ **Fun fact** I started with ML and AI out of curiosity, and now I find myself diving into everything from chatbots and NLP to speech recognition and audio processing—always excited for the next challenge! 😃
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpit-patel-b17416229) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitpatel.it2025@gmail.com) 
