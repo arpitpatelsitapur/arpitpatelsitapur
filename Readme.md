@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 **I’m currently learning** MLOps Application using AWS SageMaker.<br>
+🌱 **I’m currently Building** an End-to-End app containinhg ui, ml model, testing, monitoring everything a product need to get understanding of ml system design .<br>
 👯 **I’m looking to collaborate** on Projects related to Machine Learning, Deep Learning, NLP, LLMs, and AI-powered applications, including audio signal processing, STT, and TTS models.<br>
 💬 **Ask me about** ML, AI, NLP, fine-tuning transformers, OpenAI/Gemini API integration, LangChain, speech & audio processing (STT/TTS models), and chatbot development.<br>
 ⚡ **Fun fact** I started with ML and AI out of curiosity, and now I find myself diving into everything from chatbots and NLP to speech recognition and audio processing—always excited for the next challenge! 😃
